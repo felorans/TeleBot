@@ -1,6 +1,6 @@
 # Customized
 config.py
-TOKEN = "434740226:AAEpwRmtrJuUEPT10IJ-p-4Amh7THBTSxhY"
+bot.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
